@@ -41,16 +41,16 @@
       <td align="center">
         <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" alt="Tree Planted Badge">
       </td>
-      <td align="left"><strong>Tree Planted</strong></td>
+      <td align="left"><strong>Early Bird Pegasaurus</strong></td>
       <td align="center">
-        <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgq6fpfm002tlb04mo0sxnf3">View Badge</a>
+        <a href="https://www.holopin.io/userbadge/cmg0cffd50018jp04gsspk031">View Badge</a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" alt="Early Bird Badge">
       </td>
-      <td align="left"><strong>Early Bird Pegasaurus</strong></td>
+      <td align="left"><strong>Tree Planted</strong></td>
       <td align="center">
         <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg0cffd50018jp04gsspk031">View Badge</a>
       </td>

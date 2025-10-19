@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleshi26&label=Profile%20views&color=0e75b6&style=flat" alt="kaleshi26" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaleshi26" alt="kaleshi26" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaleshi26&exclude=Followers,Reviews" alt="kaleshi26" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **beach cleanup organizer with waste analytics under Plastic Pollution**
 

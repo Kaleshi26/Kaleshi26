@@ -52,7 +52,7 @@
       </td>
       <td align="left"><strong>Tree Planted</strong></td>
       <td align="center">
-        <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg0cffd50018jp04gsspk031">View Badge</a>
+        <a href="https://www.holopin.io/userbadge/cmgq6fpfm002tlb04mo0sxnf3">View Badge</a>
       </td>
     </tr>
     <tr>

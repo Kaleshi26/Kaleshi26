@@ -20,28 +20,28 @@
 <h3 align="left">Hacktoberfest 2025:</h3>
 <p align="left">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgq6fatt002rlb04b63skkc1" target="_blank" rel="noreferrer">
-    <img src="https://assets.holopin.io/hf2025levels/lvl5-alien.webp" alt="Supercontributor" height="40"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-alien.webp" alt="Supercontributor" height="170"/>
   </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgq6fpfm002tlb04mo0sxnf3" target="_blank" rel="noreferrer">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Tree Planted" height="40"/>
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg0cffd50018jp04gsspk031" target="_blank" rel="noreferrer">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Early Bird Pegasaurus" height="40"/>
+  <a href="https://www.holopin.io/userbadge/cmgq6fpfm002tlb04mo0sxnf3" target="_blank" rel="noreferrer">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWY2NmlrajQwMDAwaWUwNG8xaGRsZGF1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Tree Planted" height="170"/>
   </a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgphjbul000xl404yfdfqvmv" target="_blank" rel="noreferrer">
-    <img src="https://assets.holopin.io/hf2025levels/lvl4-alien.webp" alt="Level 4" height="40"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-alien.webp" alt="Level 4" height="170"/>
   </a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgphj11w00dvl6043jz9cb20" target="_blank" rel="noreferrer">
-    <img src="https://assets.holopin.io/hf2025levels/lvl3-alien.webp" alt="Level 3" height="40"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-alien.webp" alt="Level 3" height="170"/>
   </a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgphileq0018l4046wdny7o9" target="_blank" rel="noreferrer">
-    <img src="https://assets.holopin.io/hf2025levels/lvl2-alien.webp" alt="Level 2" height="40"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-alien.webp" alt="Level 2" height="170"/>
   </a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgphi1w100iml804n3yaplid" target="_blank" rel="noreferrer">
-    <img src="https://assets.holopin.io/hf2025levels/lvl1-alien.webp" alt="Level 1" height="40"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-alien.webp" alt="Level 1" height="170"/>
   </a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfpgn2st000djo04prnznyvo" target="_blank" rel="noreferrer">
-    <img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" alt="Level 0" height="40"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-alien.webp" alt="Level 0" height="170"/>
+  </a>
+  <a href="https://www.holopin.io/userbadge/cmg0cffd50018jp04gsspk031" target="_blank" rel="noreferrer">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Early Bird Pegasaurus" height="170"/>
   </a>
 </p>
 

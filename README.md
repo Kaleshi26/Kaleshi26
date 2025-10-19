@@ -19,28 +19,28 @@
 
 <h3 align="left">Hacktoberfest 2025:</h3>
 <p align="left">
-  <a href="https://holopin.io/badge/cmgq6fatt002rlb04b63skkc1" target="_blank" rel="noreferrer">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgq6fatt002rlb04b63skkc1" target="_blank" rel="noreferrer">
     <img src="https://holopin.io/api/user/badge/cmgq6fatt002rlb04b63skkc1.svg" alt="Hacktoberfest 2025: Supercontributor" height="40"/>
   </a>
-  <a href="https://holopin.io/badge/cmgq6fpfm002tlb04mo0sxnf3" target="_blank" rel="noreferrer">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgq6fpfm002tlb04mo0sxnf3" target="_blank" rel="noreferrer">
     <img src="https://holopin.io/api/user/badge/cmgq6fpfm002tlb04mo0sxnf3.svg" alt="Hacktoberfest 2025: Tree Planted" height="40"/>
   </a>
-  <a href="https://holopin.io/badge/cmg0cffd50018jp04gsspk031" target="_blank" rel="noreferrer">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmg0cffd50018jp04gsspk031" target="_blank" rel="noreferrer">
     <img src="https://holopin.io/api/user/badge/cmg0cffd50018jp04gsspk031.svg" alt="Early Bird Pegasaurus" height="40"/>
   </a>
-  <a href="https://holopin.io/badge/cmgphjbul000xl404yfdfqvmv" target="_blank" rel="noreferrer">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgphjbul000xl404yfdfqvmv" target="_blank" rel="noreferrer">
     <img src="https://holopin.io/api/user/badge/cmgphjbul000xl404yfdfqvmv.svg" alt="Level 4" height="40"/>
   </a>
-  <a href="https://holopin.io/badge/cmgphj11w00dvl6043jz9cb20" target="_blank" rel="noreferrer">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgphj11w00dvl6043jz9cb20" target="_blank" rel="noreferrer">
     <img src="https://holopin.io/api/user/badge/cmgphj11w00dvl6043jz9cb20.svg" alt="Level 3" height="40"/>
   </a>
-  <a href="https://holopin.io/badge/cmgphileq0018l4046wdny7o9" target="_blank" rel="noreferrer">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgphileq0018l4046wdny7o9" target="_blank" rel="noreferrer">
     <img src="https://holopin.io/api/user/badge/cmgphileq0018l4046wdny7o9.svg" alt="Level 2" height="40"/>
   </a>
-  <a href="https://holopin.io/badge/cmgphi1w100iml804n3yaplid" target="_blank" rel="noreferrer">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgphi1w100iml804n3yaplid" target="_blank" rel="noreferrer">
     <img src="https://holopin.io/api/user/badge/cmgphi1w100iml804n3yaplid.svg" alt="Level 1" height="40"/>
   </a>
-  <a href="https://holopin.io/badge/cmfpgn2st000djo04prnznyvo" target="_blank" rel="noreferrer">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmfpgn2st000djo04prnznyvo" target="_blank" rel="noreferrer">
     <img src="https://holopin.io/api/user/badge/cmfpgn2st000djo04prnznyvo.svg" alt="Level 0" height="40"/>
   </a>
 </p>

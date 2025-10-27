@@ -53,30 +53,32 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" alt="C++"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" alt="JavaScript"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="50" alt="PHP"></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" alt="React"></td>
     <td align="center"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" alt="Node.js"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="50" alt="Express"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50" alt="Spring"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" alt="Tailwind CSS"></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" alt="Python"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50" alt="Spring"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50" alt="Tailwind CSS"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="50" alt="Android Studio"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" alt="Figma"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50" alt="Postman"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" alt="Linux"></td>
     <td align="center"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="50" alt="MongoDB"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" alt="MySQL"></td>
+  </tr>
+  <tr> 
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="50" alt="PostgreSQL"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="50" alt="Firebase"></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></td>
-    <td align="center"></td> </tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></td> 
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" alt="Docker"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=rstudio&theme=dark" width="50" alt="RStudio"></td>
+  </tr>
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaleshi26&show_icons=true&locale=en&layout=compact" alt="kaleshi26" /></p>

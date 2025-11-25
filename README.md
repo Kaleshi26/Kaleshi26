@@ -77,7 +77,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" alt="Docker"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" alt="Git"></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=rstudio&theme=dark" width="50" alt="RStudio"></td>
   </tr>
 </table>
 
